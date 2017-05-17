@@ -34,7 +34,6 @@ class TodoApp extends React.Component {
   }
 }
 
-
 const TodoList = (props) => {
   return (
     <ul>
